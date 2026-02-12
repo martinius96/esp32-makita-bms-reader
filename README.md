@@ -1,7 +1,6 @@
 # ESP32 MAKITA BMS Reader
 
-Ported **esp32-makita-bms-reader** project from [@Belik1982](https://github.com/Belik1982) to Arduino IDE from the original PlatformIO project.  
-Licensed under the **MIT License**.
+Ported **esp32-makita-bms-reader** project from [@Belik1982](https://github.com/Belik1982) to Arduino IDE from the original PlatformIO MIT-licensed project.  Project itself is a web-based diagnostic tool for Makita batteries using ESP32
 
 * **Original project:** [Belik1982/esp32-makita-bms-reader](https://github.com/Belik1982/esp32-makita-bms-reader)
 
