@@ -10,8 +10,8 @@
 #include "MakitaBMS.h"
 
 // --- Настройки и глобальные объекты ---
-#define ONEWIRE_PIN 4
-#define ENABLE_PIN  1
+#define ONEWIRE_PIN 22
+#define ENABLE_PIN  21
 const char* ssid = "Makita_BMS_Tool";
 DNSServer dnsServer;
 AsyncWebServer server(80);
