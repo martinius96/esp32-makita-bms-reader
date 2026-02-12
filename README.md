@@ -8,6 +8,10 @@ Ported **esp32-makita-bms-reader** project from [@Belik1982](https://github.com/
 
 ## 🛠 Instructions (Arduino IDE)
 * **ONEWIRE_PIN changed to 22, ENABLE_PIN to 23 - mainly for WROOM32 pinouts**
+<p align="center">
+<img width="1018" height="551" alt="image" src="https://github.com/user-attachments/assets/b843c017-3e7a-40cc-a054-1feb2080ee3f" />
+</p>
+
 ### 1. File Preparation
 * **MAKITA folder:** Move this directory to your Arduino projects folder (e.g., `Documents/Arduino`).
 * **libraries:** Copy all contents from this folder into your `Arduino/libraries` directory.
