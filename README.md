@@ -1,12 +1,12 @@
 # ESP32 MAKITA BMS Reader
-Ported esp32-makita-bms-reader project from @Belik1982 to Arduino IDE from Platformio project
+Ported esp32-makita-bms-reader project from @Belik1982 to Arduino IDE from Platformio project under MIT license
 Original project link: https://github.com/Belik1982/esp32-makita-bms-reader
 
 # Instructions (valid for Arduino IDE < 2.0)
 * MAKITA - upload directory to your Arduino projects directory (e.g. Documents)
 * libraries - everything from libraries copy into Arduino/libraries directory (whole directories)
 * ESP32FS - upload whole directory to Arduino/tools location (**for 2.0 Arduino IDE and above, you need to install LittleFS Upload yourself**)
-
+<img width="750" height="206" alt="image" src="https://github.com/user-attachments/assets/5a6ea867-09d2-4785-b27b-e61921a0360a" />
 
 #
 * Open Project MAKITA in Arduino IDE, connect ESP32 to your PC, set COM port
