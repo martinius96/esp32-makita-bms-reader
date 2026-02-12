@@ -13,7 +13,7 @@ Licensed under the **MIT License**.
 * **MAKITA folder:** Move this directory to your Arduino projects folder (e.g., `Documents/Arduino`).
 * **libraries:** Copy all contents from this folder into your `Arduino/libraries` directory.
 * **ESP32FS Tool:** Copy the `ESP32FS` directory to `Arduino/tools`.
-    > ⚠️ **Note for Arduino IDE 2.0+:** You need to install the [LittleFS/SPIFFS Upload tool](https://github.com/earlephilhower/arduino-esp8266littlefs-plugin) manually, as the old tool structure has changed.
+    > ⚠️ **Note for Arduino IDE 2.0+:** You need to install the [LittleFS/SPIFFS Upload tool](https://github.com/earlephilhower/arduino-esp8266littlefs-plugin) instead.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5a6ea867-09d2-4785-b27b-e61921a0360a" width="750" alt="File structure setup" />
