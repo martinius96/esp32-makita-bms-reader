@@ -26,6 +26,8 @@ Licensed under the **MIT License**.
     * *This uploads the HTML files from the `/data` directory into the SPIFFS/LittleFS sector of the ESP32.*
 
 <p align="center">
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a24f1e5-ecd8-45e4-a7db-7155002fa138" />
+<br>
   <img src="https://github.com/user-attachments/assets/ca5b0a9e-64b6-4ca1-a3e1-ccf11531e540" width="600" alt="Data Uploader Tool" />
 </p>
 
